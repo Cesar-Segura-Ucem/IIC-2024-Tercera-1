@@ -11,18 +11,16 @@
     </div>
 
     <div class="main-accordion-container">
-        
+
+    </div>
+
+    <div class="mid-info">
+        <p class="mid-info-title">Oferta Académica</p>
+        <p class="mid-info-desc">Decídete y escoge, que quieres estudiar</p>
     </div>
 
     <div class="card-list">
-
     </div>
-
-
-
-
-
-
 
 </body>
 
